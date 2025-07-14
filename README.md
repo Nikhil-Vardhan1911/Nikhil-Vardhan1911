@@ -4,7 +4,7 @@
 🎯 Passionate about building scalable, real-world applications
 
 🔧 Tech Stack
-- Java, Spring Boot,Spring AI, SQL,MySQL
+- Java, Jdbc,Hibernate,Spring Boot,Spring AI, SQL,MySQL
 - REST APIs, Maven, JPA/Hibernate
 - Docker, Git, Postman, Swagger
 - Testing: Junit,Mockito,Integration Testing
