@@ -1,13 +1,28 @@
-- 👋 Hi, I'm Nikhil Vardhan 👋
-  
-💻 Java Backend Developer | Spring Boot | MySQL | REST APIs  
-🎯 Passionate about building scalable, real-world applications
+# 👋 Hi, I'm Nikhil Vardhan
 
-🔧 Tech Stack
-- Java, DSA,JDBC,Hibernate,Spring Boot,Spring AI, SQL,MySQL
-- REST APIs, Maven, JPA/Hibernate
-- Docker, Git, Postman, Swagger
-- Testing: Junit,Mockito,Integration Testing
+🎯 A passionate **Java Backend Developer** with hands-on experience in building real-world, scalable applications using modern tech stacks.
+
+---
+
+## 🔧 Tech Stack & Tools
+
+- **Languages**: Java, SQL, JavaScript  
+- **Frameworks & Libraries**: Spring Boot, Spring AI, Hibernate, JPA  
+- **Database**: MySQL  
+- **Build & Tools**: Maven, Git, Docker  
+- **Testing**: JUnit, Mockito, Integration Testing  
+- **API & Docs**: REST APIs, Swagger, Postman  
+- **Frontend (Basic)**: React, Material UI  
+- **Other**: Data Structures & Algorithms (DSA), Debugging, Clean Code
+
+---
 ## 🚀 Projects
 - 💼 [Job Portal App](https://github.com/Nikhil-Vardhan1911/jobportal): Java + Spring Boot backend with full CRUD & API testing.
+   A full-featured job listing platform with CRUD operations, filtering, pagination, and end-to-end API testing.  
+
 - [Smart Email Reply Generator](https://github.com/Nikhil-Vardhan1911/SmartEmail-Reply-Generator) : Java + SpringBoot,React,SpringAi,MaterialUi
+- Chrome Extension + AI
+Injects an AI-powered reply button directly into Gmail's compose window.  
+Fetches email content → Sends to Spring Boot backend → Uses Spring AI for tone-aware replies.  
+**Tech**: Java, Spring Boot, Spring AI, React, Material UI, MutationObserver, Chrome Extension APIs
+
