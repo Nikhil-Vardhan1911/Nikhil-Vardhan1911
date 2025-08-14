@@ -13,7 +13,7 @@
 - **Testing**: JUnit, Mockito, Integration Testing  
 - **API & Docs**: REST APIs, Swagger, Postman  
 - **Frontend (Basic)**: React, Material UI  
-- **Other**: Data Structures & Algorithms (DSA), Debugging, Clean Code
+- **Other**: Data Structures & Algorithms (DSA), Debugging
 
 ---
 ## 🚀 Projects
@@ -25,4 +25,3 @@
 Injects an AI-powered reply button directly into Gmail's compose window.  
 Fetches email content → Sends to Spring Boot backend → Uses Spring AI for tone-aware replies.  
 **Tech**: Java, Spring Boot, Spring AI, React, Material UI, MutationObserver, Chrome Extension APIs
-
