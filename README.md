@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: Java, SQL, JavaScript  
+- **Languages**: Java, SQL, C, JavaScript  
 - **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate, JPA  
 - **Database**: MySQL  
 - **Build & Tools**: Maven, Git, Docker  
