@@ -9,7 +9,7 @@
 - **Languages**: Java, SQL, C, JavaScript  
 - **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate, JPA  
 - **Database**: MySQL  
-- **Build & Tools**: Maven, Git, Docker  
+- **Build & Tools**: Maven, Git, GitHub, Docker  
 - **Testing**: JUnit, Mockito, Integration Testing  
 - **API & Docs**: REST APIs, Swagger, Postman  
 - **Frontend (Basic)**: React, Material UI, HTML, CSS 
