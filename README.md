@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack & Tools
 
 - **Languages**: Java, SQL, C, JavaScript  
-- **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate, JPA, JWT
+- **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate, JPA, JWT,AWS
 - **Database**: MySQL  
 - **Build & Tools**: Maven, Git, GitHub, Docker  
 - **Testing**: JUnit, Mockito, Integration Testing  
