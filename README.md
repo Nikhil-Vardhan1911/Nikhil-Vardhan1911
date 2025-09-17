@@ -18,7 +18,7 @@
 ---
 ## 🚀 Projects
 - 💼 [Job Portal App](https://github.com/Nikhil-Vardhan1911/jobportal): Java + Spring Boot backend with full CRUD & API testing.
-   A full-featured job listing platform with CRUD operations, filtering, pagination, and end-to-end API testing.  
+   A full-featured job listing platform with CRUD operations, filtering, pagination, and end-to-end API testing 
 
 - [Smart Email Reply Generator](https://github.com/Nikhil-Vardhan1911/SmartEmail-Reply-Generator) : Java + SpringBoot,React,SpringAi,MaterialUi
 - Chrome Extension + AI
