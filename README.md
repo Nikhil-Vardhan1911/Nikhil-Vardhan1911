@@ -13,7 +13,7 @@
 - **Testing**: JUnit, Mockito, Integration Testing  
 - **API & Docs**: REST APIs, Swagger, Postman  
 - **Frontend **: React, Material UI, HTML, CSS 
-- **Other**: Data Structures & Algorithms (DSA), Debugging
+- **Other**: Data Structures & Algorithms (DSA), Debugging.
 
 ---
 ## 🚀 Projects
