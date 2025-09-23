@@ -12,7 +12,7 @@
 - **Build & Tools**: Maven, Git, GitHub, Docker  
 - **Testing**: JUnit, Mockito, Integration Testing  
 - **API & Docs**: REST APIs, Swagger, Postman  
-- **Frontend **: React, Material UI, HTML, CSS 
+- **Frontend **: React, Material UI, HTML, CSS, Java
 - **Other**: Data Structures & Algorithms (DSA), Debugging.
 
 ---
