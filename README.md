@@ -8,11 +8,11 @@
 
 - **Languages**: Java, SQL,JavaScript  
 - **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate, JPA, JWT,AWS
+-  Frontend : React, Material UI, HTML, CSS, JavaScript.
 - **Database**: MySQL  
 - **Build & Tools**: Maven, Git, GitHub, Docker  
 - **Testing**: JUnit, Mockito, Integration Testing  
 - **API & Docs**: REST APIs, Swagger, Postman  
-- **Frontend **: React, Material UI, HTML, CSS, JavaScript.
 - **Other**: Data Structures & Algorithms (DSA), Debugging.
 
 ---
