@@ -6,8 +6,8 @@
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: Java, SQL,JavaScript  
-- **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate
+- **Languages**: Java, SQL,JavaScript.
+- **Frameworks & Libraries**: React, Spring Boot, Spring AI, Hibernate.
 -  Frontend : React, Material UI, HTML, CSS, JavaScript.
 - **Database**: MySQL  
 - **Build & Tools**: Maven, Git, GitHub, Docker  
